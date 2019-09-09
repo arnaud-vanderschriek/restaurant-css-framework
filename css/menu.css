@@ -1,0 +1,75 @@
+.fond
+ {
+	height:100vh;
+	background-image:url(../img/black-coffee-2847957_1920.jpg);
+	background-repeat:no-repeat;
+	background-position:bottom;
+	background-size:100%;
+}
+.list-group 
+ {
+	padding-top: 50px;
+}
+.list-group2
+ {
+	width: 50%;
+	padding-top: 50px;
+}
+
+.list-group-item
+ {
+	background-color: rgba(0,0,0,.2);
+	width: 200%;
+	height:70%;
+	color: white;
+	border-radius:10px;
+	text-shadow: 2px 2px 2px black;
+
+}
+.menu
+ {
+	text-align: center;
+	vertical-align: middle;
+	color:white;
+	margin-top: 10px;
+
+}
+header
+ {
+	height: 50px;
+}
+h1
+ {
+	font-family: 'Pacifico', cursive;
+	font-size: 350%;
+	text-shadow: 2px 2px 2px black;
+	color:white;
+}
+h2
+ {
+	font-family:'Pacifico',cursive;
+	font-size: 250%;
+	text-shadow: 2px 2px 2px black;
+	padding-top: 20px;
+}
+
+
+.barnav
+ {
+	margin: 0;
+	padding:0;
+	background:transparent;
+}
+.navbar
+ {
+	margin:0;
+	padding:0;
+}
+a
+ {
+	color:white;
+}
+.navbar  {
+	background-color: rgba(0,0,0,.6);
+}
+

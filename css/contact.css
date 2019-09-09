@@ -1,0 +1,36 @@
+.barnav
+ {
+	margin: 0;
+	padding:0;
+	background:transparent;
+}
+.navbar  {
+	background-color: rgba(0,0,0,.6);
+	
+}
+.fond
+{
+	height:100vh;
+	width:100vw;
+	background-image:url(../img/notebook-1280538.jpg);
+	background-repeat:no-repeat;
+	background-position:bottom;
+	overflow:hidden;
+	
+}
+h1, h2
+ {
+	font-family: 'Pacifico', cursive;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+
+}
+.form-group
+ {
+	color:white;
+	text-shadow:2px 2px 2px black;
+}
+select
+ {
+	background:transparent;
+}
