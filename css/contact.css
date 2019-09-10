@@ -1,16 +1,16 @@
+
+
 .navbar  {
 	background-color: rgba(0,0,0,.6);
 	
 }
 .fond
 {
-	height:100vh;
-	width:100vw;
 	background-image:url(../img/notebook-1280538.jpg);
 	background-repeat:no-repeat;
-	background-position:bottom;
-	overflow:hidden;
-	
+	background-position:center;
+	width:auto;
+	height:auto;
 }
 h1, h2
  {
@@ -24,33 +24,4 @@ h1, h2
 	text-shadow:2px 2px 2px black;
 }
 
-@media screen and (min-width:575px)
- {
-	.pos-f-t
-	{
-		display:none;
-	}
-}
-
-@media screen and (max-width:570px)
- {
-	.barnav
-	{
-	display:none;
-	
-	}
-	header
-	{
-	background-color:rgba(0,0,0,.3);
-	}
-	span>a
-	{
-	font-family:'Pacifico', cursive;
-	color:white;
-	}
-	main
-	{
-	padding:auto;
-	}
-}
 
